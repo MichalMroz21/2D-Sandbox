@@ -1,0 +1,4 @@
+#ifndef CMAKECONFIG_HPP
+#define CMAKECONFIG_HPP
+
+#endif // CMAKECONFIG_HPP
