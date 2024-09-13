@@ -8,7 +8,7 @@ set(CMAKE_DIR ${CMAKE_CURRENT_LIST_DIR}/cmake)
 set(INCLUDE_DIR ${CMAKE_CURRENT_LIST_DIR}/include)
 set(SOURCE_DIR ${CMAKE_CURRENT_LIST_DIR}/source)
 
-set(QT_INCLUDE_LIBRARIES Core Quick Concurrent OpenGL)
+set(QT_INCLUDE_LIBRARIES Core Quick Concurrent OpenGL Gui)
 
 #CMakeConfig.hpp Constants
 add_definitions(-DROOT_PATH_CMAKE=${CMAKE_CURRENT_SOURCE_DIR})
